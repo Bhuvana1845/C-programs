@@ -17,7 +17,7 @@ void inssort(int *arr,int n){
 }
 int main(){
     int n,res;
-    printf("Enter the size:");
+    printf("Enter the size:");// 
     scanf("%d",&n);
     int arr[n];
     printf("Enter an elements of array ");
